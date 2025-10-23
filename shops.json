@@ -1,0 +1,37 @@
+[
+  {
+    "artist": "Lana Del Rey",
+    "place": "Vinyl Paradise",
+    "city": "Los Angeles, USA",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "artist": "Lana Del Rey",
+    "place": "RetroSound Records",
+    "city": "New York, USA",
+    "lat": 40.7128,
+    "lng": -74.0060
+  },
+  {
+    "artist": "Taylor Swift",
+    "place": "Melody Shop",
+    "city": "London, UK",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "artist": "The Weeknd",
+    "place": "Music World",
+    "city": "Toronto, Canada",
+    "lat": 43.65107,
+    "lng": -79.347015
+  },
+  {
+    "artist": "Adele",
+    "place": "Vinyl House",
+    "city": "Sydney, Australia",
+    "lat": -33.8688,
+    "lng": 151.2093
+  }
+]
